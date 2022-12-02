@@ -6,3 +6,4 @@ let camelWibble = convent.camelize(wibble);
 
 console.log(`in ${wibble} to ${camelWibble}`);
 
+// testing
